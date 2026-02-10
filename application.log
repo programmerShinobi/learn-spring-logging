@@ -6,3 +6,11 @@
 2026-02-10T15:28:37.286+07:00 ERROR 24232 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Shinobi
 2026-02-10T15:39:53.743+07:00  WARN 25224 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
 2026-02-10T15:39:53.745+07:00 ERROR 25224 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Shinobi
+2026-02-10T15:47:12.612+07:00  WARN 25925 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
+2026-02-10T15:47:12.614+07:00 ERROR 25925 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Shinobi
+2026-02-10T15:48:40.286+07:00  WARN 26099 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
+2026-02-10T15:48:40.287+07:00 ERROR 26099 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Shinobi
+2026-02-10T15:50:01.952+07:00  WARN 26278 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
+2026-02-10T15:50:01.954+07:00 ERROR 26278 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Shinobi
+2026-02-10T15:50:22.580+07:00  WARN 26402 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
+2026-02-10T15:50:22.581+07:00 ERROR 26402 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Shinobi
