@@ -4,3 +4,5 @@
 2026-02-10T15:28:37.266+07:00  WARN 24232 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello Shinobi 99999
 2026-02-10T15:28:37.286+07:00  WARN 24232 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
 2026-02-10T15:28:37.286+07:00 ERROR 24232 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Shinobi
+2026-02-10T15:39:53.743+07:00  WARN 25224 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
+2026-02-10T15:39:53.745+07:00 ERROR 25224 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Shinobi

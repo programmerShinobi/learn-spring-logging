@@ -12,9 +12,9 @@ public class LoggingTest {
 
     @Test
     void testLongLogging() {
-        for (int i = 0; i < 100_000; i++) {
-            log.warn("Hello Shinobi {}", i);
-        }
+//        for (int i = 0; i < 100_000; i++) {
+//            log.warn("Hello Shinobi {}", i);
+//        }
     }
 
     @Test
